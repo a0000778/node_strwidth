@@ -1,0 +1,19 @@
+{
+	"name": "strwidth",
+	"version": "0.1.0",
+	"description": "取得字串顯示寬度 | get string width",
+	"main": "index.js",
+	"scripts": {
+		"test": "node test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/a0000778/node_strwidth.git"
+	},
+	"keywords": [
+		"multi-byte",
+		"unicode"
+	],
+	"author": "a0000778 <a0000778@gmail.com> (http://code.a0000778.idv.biz/)",
+	"license": "MIT"
+}
